@@ -1,10 +1,10 @@
 % Quiz 2: 1/21/15
 
 # Question 1
-What is the interface between the user and the kernel called?
+**2pts.** What is the interface between the user and the kernel called? **System Calls or Shell**
 
 # Question 2
-What are the two types of memory?
+**3pts.** What are the two types of memory? **Stack, Heap (half credit for listing Text, BSD, or Data)** 
 
 # Question 3
 Use the program below:
@@ -26,6 +26,8 @@ int main()
 }
 ~~~
 
- a) Draw the callgraph from of this program.
- b) How many stack frames are required for this program to run?
+ a) **3pts.** Draw the callgraph from of this program. **See Below**
+ b) **2pts.** How many stack frames are required for this program to run? **6 including Main**
 
+
+![](f_out.png)

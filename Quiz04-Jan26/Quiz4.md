@@ -1,4 +1,4 @@
-% Quiz 2: 1/21/15
+% Quiz 4: 1/26/15
 
 # Question 1
 What is the output of the following code?

@@ -11,6 +11,7 @@
 - Dekker's Algorithm
 - Peterson's Algorithm
 - TSL - Test set lock
+- Disable Interupts
 
 
 # Question 2

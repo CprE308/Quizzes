@@ -1,0 +1,9 @@
+{signal: [
+  {name: 'FCFS', wave: '42......2...42.........2.......4', data: ['IDLE', 'A', 'C', 'IDLE','D','B','IDLE']},
+  {name: 'SRTN', wave: '42.2...2....42..2......2.......4', data: ['IDLE', 'A', 'C', 'A', 'IDLE', 'D', 'D', 'B', 'IDLE']},
+  {name: 'RR', wave: '42....2...2.42....2....2....2..4', data: ['IDLE', 'A', 'C', 'A', 'IDLE', 'D', 'B', 'D', 'B', 'IDLE']}
+],
+  head: {
+  tick: -1
+  }
+}

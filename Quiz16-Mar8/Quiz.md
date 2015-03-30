@@ -4,16 +4,16 @@
 # Question 1
 a) Schedule the following processes using FCFS.
 
-| Process | Arive Time | Process Time |
-|---------|------------|--------------|
-| A       | 0          | 5            |
-| B       | 3          | 4            |
-| C       | 10         | 20           |
-| D       | 25         | 7            |
+| Process | Arrive Time | Process Time |
+|---------|-------------|--------------|
+| A       | 0           | 5            |
+| B       | 3           | 4            |
+| C       | 10          | 20           |
+| D       | 25          | 7            |
 
 ![Part A answer](process_schedule.png)
 
-b) What is the average response time (the average time between a process ariving and finishing).
+b) What is the average response time (the average time between a process arriving and finishing).
 
 **Answer**: \[(5-0)+(9-3)+(30-10)+(37-25)\]/4 = 10.75 ~= 11
 
